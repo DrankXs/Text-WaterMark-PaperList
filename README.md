@@ -60,14 +60,14 @@ Text watermark research existed in the last century, at which time it was only p
 
 ### 1.2.3 Generating-Process
 
-This category represents a further subdivision within Category [Embedding Phase$\rightarrow$Generating-Process](#122-embedding-phase).
+This category represents a further subdivision within Category [Embedding Phase→Generating-Process](#122-embedding-phase).
 
 - **Token-Level**: Watermark information is introduced when the language model generates a token each time.
 - **Sentence-Level**: The embedding of watermark information is used when the language model generates each sentence. This requires a semi-controlled sampling process when generating: 1.No constraint is imposed until a sentence is generated;2.Multiple candidates must be obtained using beam search during generation; 3.When generated, it must be generated sentence by sentence.
 
 ### 1.2.4 Token-Level
 
-This category represents a further subdivision within Category [Embedding Phase$\rightarrow$Generating-Process$\rightarrow$Token-Level](#123-generating-process).
+This category represents a further subdivision within Category [Embedding Phase→Generating-Process→Token-Level](#123-generating-process).
 
 During each step of token generation, the language model undergoes the following processing:
 Get **Logits** ob the vocabulary $\rightarrow$ Get Probability Distribution(**Weight**) over the vocabulary $\rightarrow$ **Sample** from the probability distribution
