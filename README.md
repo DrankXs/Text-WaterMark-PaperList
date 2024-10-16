@@ -239,6 +239,7 @@ About Key Word:
 |                     [Copyright Protection in Generative AI: A Technical Perspective](https://arxiv.org/pdf/2402.02333)                     | 2024                       | Survey    |
 | [Building Intelligence Identification System via Large Language Model Watermarking: A Survey and Beyond](https://arxiv.org/pdf/2407.11100) | 2024                       | Survey    |
 |          [Detecting AI-Generated Text: Factors Influencing Detectability with Current Methods](https://arxiv.org/pdf/2406.15583)          | 2024                       | Survey    |
+|          [Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks](https://arxiv.org/pdf/2409.08087)          | 2024                       | Survey    |
 
 # 4.Attack
 
